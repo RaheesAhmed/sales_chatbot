@@ -7,13 +7,13 @@ A chatbot assistant that provides tailored products guidance to customers, using
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RaheesAhmed/Career-Counseling-Assistant.git
+   git clone https://github.com/RaheesAhmed/sales_chatbot.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd Career-Counseling-Assistant
+   cd sales_chatbot
    ```
 
 3. Install the dependencies:
