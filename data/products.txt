@@ -1,0 +1,79 @@
+Product List
+Electronics
+Smartphone A1
+Price: $499.99
+Description: A powerful smartphone with 64GB storage, 4GB RAM, and a 12MP camera.
+
+
+Laptop Pro 15
+Price: $1,199.99
+Description: High-performance laptop with Intel i7 processor, 16GB RAM, and 512GB SSD.
+Bluetooth Headphones
+
+Price: $79.99
+Description: Wireless over-ear headphones with noise cancellation and 20 hours battery life.
+Home Appliances
+Air Conditioner 1.5 Ton
+
+Price: $349.99
+Description: Energy-efficient air conditioner with fast cooling and remote control.
+Microwave Oven 20L
+
+Price: $99.99
+Description: Compact microwave oven with 700W power and multiple cooking modes.
+Vacuum Cleaner 1200W
+
+Price: $129.99
+Description: High-power vacuum cleaner with HEPA filter and various attachments.
+Fashion
+Men's Leather Jacket
+
+Price: $199.99
+Description: Stylish genuine leather jacket with a comfortable fit and multiple pockets.
+Women's Handbag
+
+Price: $89.99
+Description: Elegant handbag with premium quality material and spacious compartments.
+Running Shoes
+
+Price: $59.99
+Description: Lightweight and breathable running shoes with superior grip and cushioning.
+Books
+Bestselling Novel
+
+Price: $14.99
+Description: A gripping tale of adventure and mystery by a renowned author.
+Cookbook
+
+Price: $24.99
+Description: A collection of delicious recipes with easy-to-follow instructions and vibrant photos.
+Self-Help Guide
+
+Price: $19.99
+Description: An inspiring book with practical tips and advice for personal growth and success.
+Toys
+Building Blocks Set
+
+Price: $29.99
+Description: Creative building blocks set with 500 pieces for endless fun and learning.
+Remote Control Car
+
+Price: $49.99
+Description: High-speed remote control car with durable build and rechargeable battery.
+Plush Teddy Bear
+
+Price: $19.99
+Description: Soft and cuddly teddy bear, perfect for kids and as a gift.
+Groceries
+Organic Honey 500g
+
+Price: $9.99
+Description: Pure organic honey with no additives, perfect for sweetening and baking.
+Almonds 1kg
+
+Price: $19.99
+Description: High-quality almonds, rich in nutrients and perfect for snacking.
+Green Tea 100g
+
+Price: $6.99
+Description: Premium green tea leaves for a refreshing and healthy beverage.
